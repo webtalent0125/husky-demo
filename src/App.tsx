@@ -23,6 +23,7 @@ function App() {
             Projects
           </NavLink>
         </header>
+        
         <div className="container">
           <Routes>
             <Route path="/" element={<HomePage />} />
